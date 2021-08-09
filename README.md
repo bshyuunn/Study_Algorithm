@@ -8,7 +8,7 @@
     
 ### 코딩테스트 문제 사이트
 
-  * [BAEKJOON Online Judge](https://www.acmicpc.net/)
+  * [Baekjoon](https://www.acmicpc.net/)
   * [Programmers](https://programmers.co.kr/)
 
 ### 코딩테스트 참고 서적
