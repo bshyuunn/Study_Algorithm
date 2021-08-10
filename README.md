@@ -10,6 +10,7 @@
 
   * [Baekjoon](https://www.acmicpc.net/)
   * [Programmers](https://programmers.co.kr/)
+  * [초보자를 위한 파이썬 300제](https://wikidocs.net/book/922)
 
 ### 코딩테스트 참고 서적
 
