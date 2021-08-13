@@ -16,3 +16,10 @@
 ### 코딩테스트 참고 서적
 
   * [이것이 코딩 테스트다](https://www.hanbit.co.kr/media/books/book_view.html?p_code=B8945183661)
+
+### 아이콘
+  * 한번에 맞춤 :  ✔️
+
+  * 틀림 : 😓
+
+  * 복습 완료 : 🚩
