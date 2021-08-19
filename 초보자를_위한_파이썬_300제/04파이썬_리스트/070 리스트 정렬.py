@@ -2,7 +2,7 @@
 # data = [2, 4, 3, 1, 5, 10, 9]
 
 data = [2, 4, 3, 1, 5, 10, 9]
-data = data.sort()
+data.sort()
 # data.sort() 만 써도 된다.
 
 print(data)
