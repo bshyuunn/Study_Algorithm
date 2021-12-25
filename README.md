@@ -1,16 +1,13 @@
-## Study_CodingTest
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Otwooo">
+## baekjoon
 
-<br>
-    
-#### 코딩테스트 문제 사이트
+#### [사이트 방문](https://www.acmicpc.net/)
 
-  * [Baekjoon](https://www.acmicpc.net/)
-  * [Programmers](https://programmers.co.kr/)
-  * [초보자를 위한 파이썬 300제](https://wikidocs.net/book/922)
+#### [프로필](https://www.acmicpc.net/user/otwooo)
 
-<br>
+<br>  
+<br>  
 
-#### 코딩테스트 참고 서적
-
-  * [이것이 코딩 테스트다](https://www.hanbit.co.kr/media/books/book_view.html?p_code=B8945183661)
-
+| 번호 | 이름 | 태그 | 풀이 | # |
+|:----:|:----:|:----:|:----:|:-:|
+|
