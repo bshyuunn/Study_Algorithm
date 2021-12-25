@@ -1,13 +1,11 @@
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Otwooo">
-## baekjoon
+## Study_CodingTest
 
-#### [사이트 방문](https://www.acmicpc.net/)
+#### 사용 언어
 
-#### [프로필](https://www.acmicpc.net/user/otwooo)
+  - Python
 
-<br>  
-<br>  
+#### 코딩테스트 문제 사이트
 
-| 번호 | 이름 | 태그 | 풀이 | # |
-|:----:|:----:|:----:|:----:|:-:|
-|
+  - [Baekjoon](https://www.acmicpc.net/)
+  - [Programmers](https://programmers.co.kr/)
+  - [LeetCode](https://leetcode.com/)
