@@ -17,4 +17,5 @@
 |[4344](https://www.acmicpc.net/problem/4344) | 평균은 넘겠지 | 수학, 사칙연산 | [[4344]평균은넘겠지.py](./%EC%88%98%ED%95%99/%5B4344%5D%ED%8F%89%EA%B7%A0%EC%9D%80%EB%84%98%EA%B2%A0%EC%A7%80.py)| Bronze I|
 |[20361](https://www.acmicpc.net/problem/20361) | 일우는 야바위꾼 | 구현, 시뮬레이션 | [[20361]일우는야바위꾼.py](./%EA%B5%AC%ED%98%84/%5B20361%5D%EC%9D%BC%EC%9A%B0%EB%8A%94%EC%95%BC%EB%B0%94%EC%9C%84%EA%BE%BC.py) | Bronze III |
 |[2667](https://www.acmicpc.net/problem/2667) | 단지번호붙이기 | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색 | [[2667]단지번호붙이기.py](./%EA%B7%B8%EB%9E%98%ED%94%84/%5B2667%5D%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py) | Silver I |
-| [10989](https://www.acmicpc.net/problem/10989) | 수정렬하기3 | 정렬 | [[10989]수정렬하기3.py]() |  Silver V |
+| [10989](https://www.acmicpc.net/problem/10989) | 수정렬하기3 | 정렬 | [[10989]수정렬하기3.py](./%EC%A0%95%EB%A0%AC/%5B10989%5D%EC%88%98%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B03.py) |  Silver V |
+| [10815](https://www.acmicpc.net/problem/10815) | 숫자 카드 | 정렬, 이분 탐색 | [[20815]숫자카드.py]() | Silver IV |
