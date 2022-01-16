@@ -21,4 +21,5 @@
 | [10815](https://www.acmicpc.net/problem/10815) | 숫자 카드 | 정렬, 이분 탐색 | [[20815]숫자카드.py](./%EC%A0%95%EB%A0%AC/%5B10815%5D%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C.py) | Silver IV |
 | [3029](https://www.acmicpc.net/problem/3029) | 경고 | 수학, 구현, 문자열, 사칙연산, 파싱 | [[3029]경고.py](./%EC%88%98%ED%95%99/%5B3029%5D%EA%B2%BD%EA%B3%A0.py) | Bronze III |
 | [10828](https://www.acmicpc.net/problem/10828) | 스택 | 자료구조, 스택 | [[10828]스택.py](./%EC%9E%90%EB%A3%8C%20%EA%B5%AC%EC%A1%B0/%5B10828%5D%EC%8A%A4%ED%83%9D.py) | Silver IV |
-| [[10845](https://www.acmicpc.net/problem/10845)] | 큐 | 자료 구죠, 큐 | [[10845]큐.py]() | Silver IV |
+| [10845](https://www.acmicpc.net/problem/10845) | 큐 | 자료 구죠, 큐 | [[10845]큐.py](./%EC%9E%90%EB%A3%8C%20%EA%B5%AC%EC%A1%B0/%5B10845%5D%ED%81%90.py) | Silver IV |
+| [[10866](https://www.acmicpc.net/problem/10866)] | 덱 | 자료 구죠, 덱 | [[10866]덱.py]() | Silver IV |
