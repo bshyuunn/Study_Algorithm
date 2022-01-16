@@ -19,4 +19,5 @@
 |[2667](https://www.acmicpc.net/problem/2667) | 단지번호붙이기 | 그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색 | [[2667]단지번호붙이기.py](./%EA%B7%B8%EB%9E%98%ED%94%84/%5B2667%5D%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py) | Silver I |
 | [10989](https://www.acmicpc.net/problem/10989) | 수정렬하기3 | 정렬 | [[10989]수정렬하기3.py](./%EC%A0%95%EB%A0%AC/%5B10989%5D%EC%88%98%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B03.py) |  Silver V |
 | [10815](https://www.acmicpc.net/problem/10815) | 숫자 카드 | 정렬, 이분 탐색 | [[20815]숫자카드.py](./%EC%A0%95%EB%A0%AC/%5B10815%5D%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C.py) | Silver IV |
-| [3029](https://www.acmicpc.net/problem/3029) | 경고 | 수학, 구현, 문자열, 사칙연산, 파싱 | [[3029]경고.py]() | Bronze III |
+| [3029](https://www.acmicpc.net/problem/3029) | 경고 | 수학, 구현, 문자열, 사칙연산, 파싱 | [[3029]경고.py](./%EC%88%98%ED%95%99/%5B3029%5D%EA%B2%BD%EA%B3%A0.py) | Bronze III |
+| [10828](https://www.acmicpc.net/problem/10828) | 스택 | 자료구조, 스택 | [[10828]스택.py]() | Silver IV |
