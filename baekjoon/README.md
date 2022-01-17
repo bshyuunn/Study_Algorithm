@@ -23,4 +23,5 @@
 | [10828](https://www.acmicpc.net/problem/10828) | 스택 | 자료구조, 스택 | [[10828]스택.py](./%EC%9E%90%EB%A3%8C%20%EA%B5%AC%EC%A1%B0/%5B10828%5D%EC%8A%A4%ED%83%9D.py) | Silver IV |
 | [10845](https://www.acmicpc.net/problem/10845) | 큐 | 자료 구죠, 큐 | [[10845]큐.py](./%EC%9E%90%EB%A3%8C%20%EA%B5%AC%EC%A1%B0/%5B10845%5D%ED%81%90.py) | Silver IV |
 | [10866](https://www.acmicpc.net/problem/10866) | 덱 | 자료 구죠, 덱 | [[10866]덱.py](./%EC%9E%90%EB%A3%8C%20%EA%B5%AC%EC%A1%B0/%5B10866%5D%EB%8D%B1.py) | Silver IV |
-| [1026](https://www.acmicpc.net/problem/1026) | 보물 | 수학, 그리디, 정렬 | [[1026]보물.py]() | Silver IV |
+| [1026](https://www.acmicpc.net/problem/1026) | 보물 | 수학, 그리디, 정렬 | [[1026]보물.py](./%EC%88%98%ED%95%99/%5B1026%5D%EB%B3%B4%EB%AC%BC) | Silver IV |
+| [1181](https://www.acmicpc.net/problem/1181) | 단어 정렬 | 문자열, 정렬 | [[1181]단어정렬.py]() | Silver V |
