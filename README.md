@@ -1,4 +1,5 @@
 ## Study_CodingTest
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Otwooo">
 
 #### 사용 언어
 
