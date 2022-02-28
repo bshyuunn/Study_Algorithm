@@ -1,5 +1,7 @@
 ## Study_CodingTest
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Otwooo">
+
+#### Solved.ac 프로필
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=otwooo)](https://solved.ac/otwooo)
 
 #### 사용 언어
 
