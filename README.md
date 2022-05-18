@@ -1,4 +1,4 @@
-## Study_CodingTest
+## Study_Algorithm
 
 #### Solved.ac 프로필
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=otwooo)](https://solved.ac/otwooo)
